@@ -7,6 +7,7 @@ Just Zombies' suggestions oooooh can i not be bothered to make a backend!
 
 - Tools
 - Jje
+- Update weapons generator
 
 
 ### Zombies plugin:
