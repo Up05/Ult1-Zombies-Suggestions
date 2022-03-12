@@ -3,4 +3,14 @@ Just Zombies' suggestions oooooh can i not be bothered to make a backend!
 
 ## Suggestions:
 
-- Example suggestions.
+### Zombies website:
+
+- Tools
+- Jje
+
+
+### Zombies plugin:
+
+- Maps (items)
+- Death/Lose system
+
