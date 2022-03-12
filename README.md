@@ -12,6 +12,6 @@ Just Zombies' suggestions oooooh can i not be bothered to make a backend!
 
 ### Zombies plugin:
 
-- Maps (items)
+- Maps (items) *+ update image splitter folder snippets*
 - Death/Lose system
 
